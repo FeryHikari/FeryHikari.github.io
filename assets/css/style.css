@@ -3,3 +3,28 @@ body{
     background: radial-gradient(circle, rgba(235,193,211,1) 42%, rgba(222,183,245,1) 76%, rgba(215,169,244,1) 89%);
 }
 
+main{
+    margin: 2rem;
+}
+
+
+.col-name{
+    text-align: center;
+    padding: 2rem;
+}
+
+.imgs{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col-c{
+    margin-top: 3rem;
+}
+
+footer{
+    margin: 2rem;
+    text-align: center;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif ;
+}
